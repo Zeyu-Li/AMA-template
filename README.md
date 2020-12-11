@@ -1,4 +1,4 @@
-# This is an AMA on GitHub
+# AMA on GitHub
 
 <!-- This is a template for AMAs, use discussions as forum :) ❤️ -->
 
